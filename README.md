@@ -8,7 +8,7 @@ estar mostrando paso a paso mis proyect !!
 
 <p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=dennysnexttop" alt="dennysnexttop" / ></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cariocabonilla" target="blank"><img src="https://img.shields.io/twitter/follow/cariocabonilla?logo=twitter&style=for-the-badge" alt="cariocabonilla" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bonillacarioca" target="blank"><img src="https://img.shields.io/twitter/follow/bonillacarioca?logo=twitter&style=for-the-badge" alt="bonillacarioca" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Freelance](https:/ /45-33-1-159.ip.linodeusercontent.com/)
 
@@ -30,7 +30,7 @@ estar mostrando paso a paso mis proyect !!
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href=" https://twitter.com/cariocabonilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images/icons/Social/twitter.svg" alt="cariocabonilla" height="30" width="40" /></a>
+<a href=" https://twitter.com/bonillacarioca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images/icons/Social/twitter.svg" alt="bonillacarioca" height="30" width="40" /></a>
 <a href="https://instagram.com/dennysnexttop" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dennysnexttop "height="30" width="40" /></a>
 </p>
 
