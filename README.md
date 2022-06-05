@@ -1,5 +1,5 @@
 Audiodidacta, Desarrollo Web, Pentesting y Python⭕⭕
-estar mostrando paso a paso mis proyect . 
+estar mostrando paso a paso mis proyect !!
 
 <h1 align="center">Hola 👋, soy Dennys Bonilla</h1>
 <h3 align="center">Un apasionado desarrollador de frontend y ciberseguridad de Panamá</h3>
@@ -8,15 +8,17 @@ estar mostrando paso a paso mis proyect .
 
 <p align="left"> <a href=" https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=dennysnexttop" alt="dennysnexttop" /> </a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Freelance](https://45-33-1-159.ip.linodeusercontent.com/)
+<p align="left"> <a href="https://twitter.com/cariocabonilla" target="blank"><img src="https://img.escudos.io/twitter/follow/cariocabonilla?logo=twitter&style=for-the-badge" alt="cariocabonilla" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **https: //45-33-1-159.ip.linodeusercontent.com/2022/05/17/curso-de-seguridad-industrial-finalizado/**
+- 🔭 Actualmente estoy trabajando en [Freelance](https://45 -33-1-159.ip.linodeusercontent.com/)
 
-- 👯 Busco colaborar en [https://solo.to/dennysnexttop](https://github.com/Dennysnexttop/calculadora1.1.git)
+- 🌱 Actualmente estoy aprendiendo **https://45-33-1-159.ip.linodeusercontent.com/2022/05/17/curso-de-seguridad-industrial-finalizado/**
+
+- 👯 Estoy buscando colaborar en [https://solo.to/dennysnexttop](https://github.com/Dennysnexttop/calculadora1.1.git)
 
 - 🤝 Soy autodidacta en las áreas de desarrollo web y pentesting **calculadora1.1**
 
-- 📝 Regularmente escribo artículos en [https://45-33-1-159.ip.linodeusercontent.com/](https://45-33-1- 159.ip.linodeusercontent.com/)
+- 📝 Regularmente escribo artículos en [https://45-33-1-159.ip.linodeusercontent.com/](https://45-33-1-159.ip.linodeusercontent .com/)
 
 - 💬 Pregúntame sobre **En el área de estudio web y computación siempre me gusta estar aprendiendo**
 
@@ -24,18 +26,16 @@ estar mostrando paso a paso mis proyect .
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
-- ⚡ Soy una persona **Disciplinada, motivada y con muchas ganas de avanzar**
+- ⚡ Soy una persona **Disciplinada, motivada y con muchas ganas de seguir adelante**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/bonillacarioca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="bonillacarioca" height="30" width="40" /></a>
-<a href="https://linkedin.com/in /denisbonilla" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked -en-alt.svg" alt="denisbonilla" altura="30" ancho="40" /></a>
-<a href="https://fb.com/denisbonilla" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="denisbonilla" height="30" width="40" /></a>
+<a href=" https://twitter.com/cariocabonilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images/icons/Social/twitter.svg" alt="cariocabonilla" height="30" width="40" /></a>
+<a href="https://fb.com/denis.bonila.7792" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="denis.bonila.7792"alto="30" ancho="40" /></a>
 <a href="https://instagram.com/dennysnexttop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="dennysnexttop" height="30" width="40" /></a>
-<a href="https://www.youtube.com /c/dennysnexttop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /youtube.svg" alt="dennysnexttop" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Idiomas y Herramientas:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google .com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height ="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer. mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel= "noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python /python-original.svg" alt="python" ancho="40" altura="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennysnexttop&show_icons=true&locale=en&layout=compact" alt="dennysnexttop" /> </p>
@@ -43,3 +43,5 @@ estar mostrando paso a paso mis proyect .
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennysnexttop&show_icons=true&locale=en" alt="dennysnexttop" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennysnexttop&" alt="dennysnexttop" /></p>
+
+
