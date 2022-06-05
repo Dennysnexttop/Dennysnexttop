@@ -1,6 +1,5 @@
 Audiodidacta, Desarrollo Web, Pentesting y Python⭕⭕
-estar mostrando paso a paso mis proyect !!
-
+estar mostrando paso a paso mis proyectos en los diferente conocimientos adqui en la parte de tecnologia 
 <h1 align="center">Hola 👋 a todos, soy Dennys Bonilla</h1>
 <h3 align="center">Un apasionado desarrollador de frontend y ciberseguridad de Panamá</h3>
 
