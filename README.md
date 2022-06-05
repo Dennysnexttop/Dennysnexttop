@@ -2,17 +2,6 @@ Audiodidacta, Desarrollo Web, Pentesting y Python⭕⭕
 estar mostrando paso a paso mis proyectos.
 ![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennysnexttop&label=Profile%20views&color= 0e75b6&style=flat" alt="dennysnexttop" /> </p>
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left"> <a href="https://fb. com/denis_bonilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ facebook.svg" alt="denis_bonilla" altura="30" ancho="40" /></a> <a href="https://instagram.com/dennysnexttop"target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dennysnexttop" altura="30" ancho="40" /></a>
-<a href="https://linkedin. com/in/dennysnexttop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/vinculado-en-alt.svg" alt="dennysnexttop" height="30" width="40" /></a>
-
-
 <a href="https://www.youtube.com/c/dennysnettop" target="blank"><img align ="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dennysnettop" height="30" width="40" /></a>
 < /p>
   
