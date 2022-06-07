@@ -1,13 +1,4 @@
-Audiodidacta, Desarrollo Web, Pentesting y Python⭕⭕
-estar mostrando paso a paso mis proyectos en los diferente conocimientos adqui en la parte de tecnologia 
-<h1 align="center">Hola 👋 a todos, soy Dennys Bonilla</h1>
-<h3 align="center">Un apasionado desarrollador de frontend y ciberseguridad de Panamá</h3>
 
-<p align="left"> < img src="https://komarev.com/ghpvc/?username=dennysnexttop&label=Profile%20views&color=0e75b6&style=flat" alt="dennysnexttop" /> </p>
-
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=dennysnexttop" alt="dennysnexttop" / ></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bonillacarioca" target="blank"><img src="https://img.shields.io/twitter/follow/bonillacarioca?logo=twitter&style=for-the-badge" alt="bonillacarioca" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Freelance](https:/ /45-33-1-159.ip.linodeusercontent.com/)
 
