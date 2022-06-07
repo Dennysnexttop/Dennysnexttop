@@ -1,23 +1,4 @@
 
-
-- 🔭 Actualmente estoy trabajando en [Freelance](https:/ /45-33-1-159.ip.linodeusercontent.com/)
-
-- 🌱 Actualmente estoy aprendiendo **https://45-33-1-159.ip.linodeusercontent.com/2022/05/17/curso-de-seguridad-industrial-finalizado/**
-
-- 👯 Estoy buscando colaborar en [https://solo.to/dennysnexttop](https://github.com/Dennysnexttop/calculadora1.1.git)
-
-- 🤝 Soy autodidacta en las áreas de desarrollo web y pentesting **calculadora1.1**
-
-- 📝 Regularmente escribo artículos en [https://45-33-1-159.ip.linodeusercontent.com/](https://45-33-1-159.ip.linodeusercontent .com/)
-
-- 💬 Pregúntame sobre **En el área de estudio web y computación siempre me gusta estar aprendiendo**
-
-- 📫 Cómo contactarme **cariocabonilla76@gmail.com**
-
-- 📄 Conoce mis experiencias [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
-
-- ⚡ Soy una persona **Disciplinada, motivada y con muchas ganas de seguir adelante**
-
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href=" https://twitter.com/bonillacarioca" target="blank"><img align="center" src="https://raw.githubusercon
