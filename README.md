@@ -1,4 +1,4 @@
-f="https://cloud.google .com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height ="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer. mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubu javascript-original.svg" alt="javascri
+
 - 🌱 I’m currently learning Python IA, javascript, pentesting 
 - 👯 I’m looking to collaborate on AMAZON, MICROSOFT, ORACLE AND MUCH MORE  
 - 🤔 I’m looking for help with Python IA, javascript, pentesting 
