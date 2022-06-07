@@ -24,4 +24,17 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dennysnexttop)  
 
 ![Profile views](https://gpvc.arturio.dev/Dennysnexttop)                                            
+### Hi there 👋, my name is Denis
+#### I am GitHub Readme Dennysnexttop
+![I am GitHub Readme Dennysnexttop](https://solo.to/dennysnexttop)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: PYTHON / JS / HTML / CSS / CYBERSECURITY
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dennysnexttop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/denis-bonilla-a22751219/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Dennysnexttop/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Bonillacarioca)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://solo.to/dennysnexttop)  
+
 
